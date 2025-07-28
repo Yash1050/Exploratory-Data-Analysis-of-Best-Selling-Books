@@ -1,4 +1,4 @@
-# Bestsellers Analysis Project
+# Exploratory-Data-Analysis-of-Best-Selling-Books
 
 ## Overview
 

@@ -76,7 +76,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bestsellers-analysis.git
+   git clone https://github.com/Yash1050/Exploratory-Data-Analysis-of-Best-Selling-Books.git
    ```
 2. Place the `bestsellers with categories.csv` file in the project directory.
 3. Open the Jupyter Notebook:
@@ -93,6 +93,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 - Perform feature engineering, such as text analysis of book titles or author popularity.
 - Visualize relationships between variables using plots (e.g., scatter plots, histograms).
 
-## 
-
-## 
+ 

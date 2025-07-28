@@ -82,7 +82,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 3. Open the Jupyter Notebook:
 
    ```bash
-   jupyter notebook MA_541_project.ipynb
+   jupyter notebook MA 541 project.ipynb
    ```
 4. Run all cells to reproduce the analysis.
 
